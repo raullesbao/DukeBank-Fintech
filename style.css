@@ -1,0 +1,186 @@
+body{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d3d3d3;
+
+}
+
+#extrato{
+    font-weight: bold;
+    width: 100%;
+    height: 80px;
+    border: 2px solid #165a88;
+    background-color: #165a88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#extrato1{
+    font-size: 80px;
+    height: 0%;
+    width: 0%;
+    color: #ffffff;
+    width:max-content;
+    position: relative;
+    right:26%;
+    bottom: 88%;
+
+    }
+
+#extrato2{
+
+    width:fit-content;
+    font-size: 45px;
+    font-weight: 400;
+    color:#ffffff;
+}
+
+
+
+#saldo{
+    background-color: #165a88;
+    height: 180px;
+    width: 100%;
+}
+
+#saldo1{
+    padding-top:30px ;
+    font-size: 30px;
+    margin-left: 10%;
+    color: #cacaca;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+
+#saldo2{
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10%;
+    font-weight: 600;
+}
+
+#datatipo{
+
+    background-color: #165a88;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height:90px;
+}
+
+#datatipoin{
+    font-weight: 900;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    font-size: 20px;
+    color: #165a88;
+    border: 2px solid #9c9c9c75;
+    background-color:#F0FBFE;
+    width: 270px;
+    height:fit-content;
+    padding-left: 20px;
+    padding-top: 16px;
+    border-radius: 15px;
+}
+
+#pagdata{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    color: #292929;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #383838;
+    background-color: #d3d3d3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-bottom: 2px solid #c7c7c7;
+
+}
+
+#saldrs{
+    
+    display: flex;
+    gap: 20px;
+    font-size: 17px;
+    justify-content: center;
+    align-items: center;
+}
+
+#saldrs1{
+    font-size: 21px;
+    font-weight: 900;
+    color: #383838;
+    
+    color: #2269a3;
+}
+
+
+#complemento{
+    border-bottom: 2px solid #c7c7c7;
+    color: #2269a3;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+#compcolor{
+    font-weight:600;
+    color: #383838;
+    font-size: 95%;
+}
+
+#comp2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #d80000;
+    font-size: 22px;
+    font-weight: 900;
+ 
+}
+
+#seta{
+    color: black;
+}
+
+#saldrs2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: #383838;
+}
+
+#data{
+    font-size: 22;
+    font-weight: larger;
+    color: #165a88 ;
+}
+
+
+#barramenu{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    position:fixed;
+    bottom:0%;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 15px;
+    color: #757575;
+  
+}
